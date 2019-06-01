@@ -1,2 +1,2 @@
 # git-github
-Learning phase
+my Learning phase 
